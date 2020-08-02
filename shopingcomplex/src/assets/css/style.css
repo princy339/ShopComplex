@@ -1,0 +1,16 @@
+body {
+    margin:0;
+    padding:0;
+    background:#262626;
+    color: #2f3138;
+    font-family: "Open Sans", sans-serif;
+  }
+a{
+    overflow:hidden;
+    color:black;
+  }
+a:hover{
+   color:#262626;   
+  }
+
+  
